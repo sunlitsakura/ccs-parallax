@@ -1,0 +1,77 @@
+html {
+    background-color: #EBCCD2;
+    color: #383838;
+    font-family: 'Poppins', sans-serif;
+}
+
+.title {
+    text-align: center;
+}
+
+.image1,.image1-1,.image1-2 {
+    border-radius: 20px;
+    display: inline-block;
+    height: 550px;
+    width: 350px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.illustration-img {
+    text-align: center;
+}
+
+.illustration {
+    display: inline-block;
+}
+
+
+.image2 {
+    float: left;
+    height: 350px;
+    width: 250px;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.image3 {
+    float: right;
+    height: 400px;
+    width: 300px;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.synopsis {
+    font-size: 18px;
+    height: 300px;
+    width: 900px;
+    padding: 50px;
+    margin: auto;
+    text-align: center;
+    position: relative;
+}
+
+.trailer {
+    clear: both;
+}
+
+.anime3 {
+    text-align: center;
+}
+
+
+.container {
+    display: flex; 
+    gap: 15px;
+    justify-content: center;
+    align-items: center;
+    padding: 300px;
+}
+
+
+
+
+
+
+
